@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/coding",
+    "prod_uri":"mysql://root:@localhost/coding",
+    "blog_name":"Jawad Blog",
+    "tag_line":"A Block like by all the developers",
+    "gmail-user":"jawadahmed0300@gmail.com",
+    "gmail-pass":"thisboystudy@INTERCOLLEGE038293",
+    "about-text":"this page is tell the user about us",
+    "no_of_post":4,
+    "login_image":"login.svg",
+    "admin_username":"jawad@yahoo.com",
+    "password":"jawad123",
+    "location":"C:\\Users\\Jawad\\PycharmProjects\\flask1\\static"
+
+  }
+
+
+}
